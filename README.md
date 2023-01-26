@@ -1,4 +1,10 @@
 # 180
+The %2C in the URL represents the comma and %3B represents the semi-colon. This special encoding is done for the URLs to transfer data
+
+We can set the type of the API call as ‘get’ to get the directions in the response.
+
+
+he success callback of an AJAX request takes an argument response which contains the response from the API. Let’s add it and see what it gives us.
 
 Recap:
 
